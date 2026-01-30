@@ -1,2 +1,2 @@
-## korede kruz - Data anlysis project
+## Korede Kruz - Data Anlysis Project
 # Overview
