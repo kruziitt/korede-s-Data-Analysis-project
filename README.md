@@ -7,3 +7,6 @@ I also happen to have an accounting background alongside a professional Accounti
 Through coursework and projects, I have worked with real dataset to clean, analyse and interpret data accross different problem areas. I am intrested in applying data analytics across various domains and continuing to grow as a well rounded data anlyst.
 
 This repository shows my projects, learning progress and practical skills in data anlytics.
+# Portfolio Projects
+This section contains projects i have done and the program skill used to solve problem reaching a decision.
+1.
