@@ -9,4 +9,5 @@ Through coursework and projects, I have worked with real dataset to clean, analy
 This repository shows my projects, learning progress and practical skills in data anlytics.
 # Portfolio Projects
 This section contains projects i have done and the program skill used to solve problem reaching a decision.
+
 1.
